@@ -1,4 +1,9 @@
 # EXP-6
+```
+NAME:JUDE TARUN
+REG: 212224040144
+DATE: 18.02.2026
+```
 EXP No. :6 			CHARACTERISTICS M OF LVDT
 AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
